@@ -1,1 +1,2 @@
 practice git bash commands
+branches merge
