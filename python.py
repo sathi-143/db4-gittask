@@ -1,2 +1,2 @@
 print("apple")
-mango
+print("mango")
